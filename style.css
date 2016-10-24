@@ -1,0 +1,48 @@
+body {
+
+}
+.main_calc {
+    width: 28vw;
+    height: 65vh;
+    border: solid grey 2px;
+    border-radius: 5%;
+    background-color: black;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 10%;
+}
+#button_container {
+
+}
+
+#display_area {
+    width: 84%;
+    height: 18%;
+    background-color: lawngreen;
+    border: solid gray 4px;
+    font-weight: bold;
+    margin-top: 14%;
+    font-size: 350%;
+}
+/*.pad {
+    padding: 0;
+    margin-top: 5%;
+}
+.pad_row2 {
+    margin-bottom: 4%;
+
+}*/
+.pad_C {
+    padding: 0;
+    margin-top: 10%;
+    margin-bottom: 7%;
+}
+.pad_CE {
+    padding: 0;
+    margin-top: 10%;
+    margin-bottom: 7%;
+}
+.pad_D {
+    padding: 0;
+    margin-top: 17%;
+}
